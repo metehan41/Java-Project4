@@ -1,0 +1,10 @@
+T1 elma 5
+T2 elma 5
+T3 çilek 3
+T4 kivi 6
+T5 muz 7
+T6 armut 2
+T7 portakal 2
+T8 çilek 3
+T9 kivi 4
+T10 portakal 3

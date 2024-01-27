@@ -1,0 +1,14 @@
+m1 elma
+m2 armut
+m3 çilek
+m4 çilek
+m5 kivi
+m6 muz
+m7 muz
+m8 elma
+m9 portakal
+m10 portakal
+m11 elma
+m12 çilek
+m13 kivi
+m14 muz

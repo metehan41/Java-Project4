@@ -1,0 +1,31 @@
+elma:
+m16
+m15
+---------------
+armut:
+m2
+---------------
+çilek:
+m4
+m3
+---------------
+muz:
+m6
+---------------
+kivi:
+m13
+m5
+---------------
+portakal:
+m9
+---------------
+Token Box:
+T3	çilek	2
+T1	elma	2
+T7	portakal	2
+T6	armut	2
+T4	kivi	3
+T8	çilek	3
+T9	kivi	4
+T5	muz	5
+T2	elma	5

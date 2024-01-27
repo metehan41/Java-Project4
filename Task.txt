@@ -1,0 +1,3 @@
+BUY	elma,3	muz,2	çilek,1
+PUT	elma,m15,m16	portakal,m17,m18	kivi,m19,m20,m21
+BUY	kivi,3	portakal,3
